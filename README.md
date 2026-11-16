@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Meydj here! Look at my stats 🔥
 
 [![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meagenotmage&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meagenotmage&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
