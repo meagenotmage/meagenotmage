@@ -1,21 +1,21 @@
 <!-- Header Typing Banner -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Your+Name+%F0%9F%91%8B;Full-Stack+Developer+%26+Problem+Solver;Building+clean+code+%26+scalable+tools" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Meydj!+%F0%9F%91%8B;Full-Stack+Developer+%26+Problem+Solver;Building+clean+code+%26+scalable+tools" alt="Typing SVG" />
   </a>
 
   <!-- Social & Contact Badges -->
   <p>
-    <a href="https://your-portfolio.com" target="_blank">
+    <a href="https://meage-portfolio.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=7AA2F7" alt="Portfolio" />
     </a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <a href="https://www.linkedin.com/in/meagelleine-rose-sionosa-540405306/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn" />
     </a>
-    <a href="https://x.com/YOUR_HANDLE" target="_blank">
-      <img src="https://img.shields.io/badge/X-1a1b27?style=for-the-badge&logo=x&logoColor=7AA2F7" alt="X" />
+    <a href="https://www.facebook.com/meage.sionosa" target="_blank">
+      <img src="https://img.shields.io/badge/X-1a1b27?style=for-the-badge&logo=x&logoColor=7AA2F7" alt="Facebook" />
     </a>
-    <a href="mailto:you@example.com">
+    <a href="mailto:meagelleinerosesionosa@gmail.com">
       <img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=7AA2F7" alt="Email" />
     </a>
   </p>
