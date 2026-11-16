@@ -1,7 +1,7 @@
 <!-- Header Typing Banner -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Meydj!+%F0%9F%91%8B;Full-Stack+Developer+%26+Problem+Solver;Building+clean+code+%26+scalable+tools" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Meydj!+%F0%9F%91%8B;Full-Stack+Developer+%26+Problem+Solver;Building+problem+solving+code+%26+scalable+tools" alt="Typing SVG" />
   </a>
 
   <!-- Social & Contact Badges -->
