@@ -37,7 +37,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,python,postgres,docker,git,linux,vscode&theme=dark" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,python,postgres,docker,git,vscode&theme=dark" alt="My Tech Stack" />
   </a>
 </div>
 
